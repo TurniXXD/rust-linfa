@@ -1,0 +1,9 @@
+*.aux
+*.log
+*.xdv
+*.gz
+*.fls
+*.fdb_latexmk
+
+
+target
